@@ -1,0 +1,36 @@
+Traceback (most recent call last):
+  File "hackenslash.py", line 731, in ?
+  File "pygame\sysfont.pyc", line 271, in get_fonts
+  File "pygame\sysfont.pyc", line 195, in initsysfonts
+  File "pygame\sysfont.pyc", line 65, in initsysfonts_win32
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 4-8: ordinal not in range(128)
+Traceback (most recent call last):
+  File "hackenslash.py", line 731, in ?
+  File "pygame\sysfont.pyc", line 271, in get_fonts
+  File "pygame\sysfont.pyc", line 195, in initsysfonts
+  File "pygame\sysfont.pyc", line 65, in initsysfonts_win32
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 4-8: ordinal not in range(128)
+Traceback (most recent call last):
+  File "hackenslash.py", line 731, in ?
+  File "pygame\sysfont.pyc", line 271, in get_fonts
+  File "pygame\sysfont.pyc", line 195, in initsysfonts
+  File "pygame\sysfont.pyc", line 65, in initsysfonts_win32
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 4-8: ordinal not in range(128)
+Traceback (most recent call last):
+  File "hackenslash.py", line 731, in ?
+  File "pygame\sysfont.pyc", line 271, in get_fonts
+  File "pygame\sysfont.pyc", line 195, in initsysfonts
+  File "pygame\sysfont.pyc", line 65, in initsysfonts_win32
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 4-8: ordinal not in range(128)
+Traceback (most recent call last):
+  File "hackenslash.py", line 731, in ?
+  File "pygame\sysfont.pyc", line 271, in get_fonts
+  File "pygame\sysfont.pyc", line 195, in initsysfonts
+  File "pygame\sysfont.pyc", line 65, in initsysfonts_win32
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 4-8: ordinal not in range(128)
+Traceback (most recent call last):
+  File "hackenslash.py", line 731, in ?
+  File "pygame\sysfont.pyc", line 271, in get_fonts
+  File "pygame\sysfont.pyc", line 195, in initsysfonts
+  File "pygame\sysfont.pyc", line 65, in initsysfonts_win32
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 4-8: ordinal not in range(128)
